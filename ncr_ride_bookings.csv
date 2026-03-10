@@ -1,0 +1,1001 @@
+Date,Time,Booking ID,Booking Status,Vehicle Type,Booking Value,Ride Distance,Driver Ratings
+2024-04-12,10:02,B100000,Completed,eBike/Bike,70.05,7.4,5
+2024-12-14,00:05,B100001,Cancelled by Customer,Premier Sedan,79.93,5.01,5
+2024-09-27,17:55,B100002,Completed,eBike/Bike,87.6,25.91,5
+2024-04-16,09:04,B100003,Completed,Go Sedan,38.25,15.5,5
+2024-03-12,22:09,B100004,Cancelled by Customer,Go Mini,58.42,20.57,2
+2024-07-07,11:01,B100005,Completed,eBike/Bike,85.61,7.93,5
+2024-01-21,12:39,B100006,Completed,Auto,99.05,22.98,5
+2024-04-12,01:19,B100007,Completed,Auto,90.06,23.04,5
+2024-05-01,00:36,B100008,Cancelled by Customer,Premier Sedan,43.43,10.07,3
+2024-08-02,08:16,B100009,Completed,Go Sedan,27.56,12.91,5
+2024-11-26,08:10,B100010,Completed,Premier Sedan,54.05,7.08,5
+2024-03-28,14:23,B100011,Cancelled by Customer,Premier Sedan,76.75,29.32,5
+2024-04-09,05:54,B100012,Completed,UberXL,54.33,19.72,4
+2024-12-25,02:29,B100013,Cancelled by Customer,Premier Sedan,53.49,28.1,1
+2024-05-31,16:04,B100014,Completed,UberXL,85.44,9.8,4
+2024-05-10,11:49,B100015,Cancelled by Driver,Auto,42.53,23.67,5
+2024-05-29,13:52,B100016,Completed,Auto,87.38,23.21,5
+2024-11-04,23:10,B100017,Completed,Premier Sedan,46.61,21.06,4
+2024-09-14,08:33,B100018,Completed,Auto,39.54,29.0,2
+2024-12-09,11:34,B100019,Completed,Go Sedan,50.86,12.41,4
+2024-10-20,02:00,B100020,Cancelled by Customer,UberXL,78.62,4.79,4
+2024-07-10,07:21,B100021,Cancelled by Driver,UberXL,21.34,20.48,5
+2024-10-03,07:10,B100022,Completed,Premier Sedan,27.68,22.15,5
+2024-06-09,08:36,B100023,Completed,Auto,95.63,17.68,4
+2024-11-09,13:59,B100024,Cancelled by Customer,eBike/Bike,25.79,7.0,5
+2024-01-22,02:20,B100025,Cancelled by Customer,UberXL,61.1,15.63,2
+2024-09-09,04:04,B100026,Completed,Premier Sedan,62.14,10.05,5
+2024-08-23,18:58,B100027,Completed,Premier Sedan,54.07,13.4,4
+2024-12-10,13:25,B100028,Completed,Go Sedan,68.03,19.71,4
+2024-02-18,03:24,B100029,Cancelled by Customer,Go Mini,30.68,22.61,4
+2024-02-28,12:41,B100030,Completed,Go Mini,59.74,7.73,5
+2024-06-18,17:39,B100031,Completed,UberXL,43.5,12.75,5
+2024-07-06,07:38,B100032,Completed,Go Sedan,69.55,8.81,5
+2024-09-27,07:13,B100033,Cancelled by Customer,Go Sedan,22.71,6.76,4
+2024-07-08,18:37,B100034,Completed,Go Sedan,61.38,23.72,4
+2024-06-23,00:22,B100035,Completed,UberXL,26.67,27.37,3
+2024-02-20,14:32,B100036,Completed,Go Mini,35.08,11.74,5
+2024-12-29,16:32,B100037,Completed,Go Sedan,29.68,22.79,1
+2024-02-24,14:54,B100038,Completed,Auto,26.46,27.01,5
+2024-08-31,01:13,B100039,Completed,Premier Sedan,84.31,25.54,5
+2024-11-15,20:39,B100040,Completed,Premier Sedan,35.71,6.3,5
+2024-05-10,07:50,B100041,Completed,eBike/Bike,93.44,28.73,4
+2024-11-02,06:50,B100042,Completed,eBike/Bike,97.29,11.92,4
+2024-05-14,05:05,B100043,Cancelled by Customer,UberXL,61.41,10.84,2
+2024-01-21,02:06,B100044,Cancelled by Customer,UberXL,22.87,2.81,5
+2024-11-24,18:07,B100045,Completed,Premier Sedan,43.71,15.1,5
+2024-06-15,09:51,B100046,Cancelled by Customer,Auto,81.8,4.16,4
+2024-09-30,14:46,B100047,Completed,Go Mini,43.07,8.21,4
+2024-03-29,00:51,B100048,Completed,Go Mini,17.83,10.19,5
+2024-11-11,06:26,B100049,Completed,UberXL,60.11,24.46,5
+2024-01-14,03:28,B100050,Completed,Auto,86.06,26.39,4
+2024-08-29,05:56,B100051,Cancelled by Customer,UberXL,81.63,9.77,5
+2024-09-21,00:36,B100052,Cancelled by Customer,Go Mini,25.76,25.9,3
+2024-12-11,22:32,B100053,Cancelled by Customer,UberXL,70.55,25.86,3
+2024-02-22,03:21,B100054,Completed,Go Sedan,29.85,23.17,5
+2024-12-05,01:09,B100055,Completed,UberXL,29.64,5.25,5
+2024-04-01,04:58,B100056,Completed,Premier Sedan,88.67,21.02,5
+2024-09-20,09:32,B100057,Completed,UberXL,32.47,28.41,1
+2024-02-04,21:37,B100058,Completed,Premier Sedan,33.69,20.79,5
+2024-07-24,12:30,B100059,Completed,Auto,10.06,10.62,4
+2024-03-21,14:35,B100060,Completed,Go Mini,88.36,15.52,4
+2024-02-19,12:23,B100061,Completed,eBike/Bike,81.33,19.73,5
+2024-12-25,19:55,B100062,Cancelled by Customer,eBike/Bike,66.46,15.81,2
+2024-01-02,14:28,B100063,Cancelled by Driver,Go Mini,77.52,4.48,5
+2024-02-23,07:04,B100064,Cancelled by Driver,eBike/Bike,23.68,10.05,5
+2024-04-15,14:03,B100065,Completed,UberXL,51.25,24.27,3
+2024-09-16,11:44,B100066,Completed,Auto,41.61,25.98,3
+2024-11-05,01:26,B100067,Completed,Auto,18.44,4.98,3
+2024-07-09,18:50,B100068,Cancelled by Customer,Go Mini,53.75,28.62,2
+2024-08-05,03:35,B100069,Completed,eBike/Bike,92.87,10.54,5
+2024-02-13,10:26,B100070,Completed,UberXL,13.61,20.21,5
+2024-06-10,04:19,B100071,Cancelled by Customer,Auto,36.23,22.8,1
+2024-07-20,10:09,B100072,Completed,Auto,28.68,24.55,1
+2024-09-26,07:37,B100073,Completed,Go Sedan,31.43,28.43,5
+2024-12-16,05:07,B100074,Completed,Go Sedan,91.76,10.07,5
+2024-10-30,22:46,B100075,Completed,Auto,52.13,25.9,4
+2024-09-27,13:42,B100076,Completed,Go Mini,51.97,4.82,4
+2024-08-02,11:25,B100077,Completed,Premier Sedan,78.45,21.45,5
+2024-09-08,12:39,B100078,Completed,Premier Sedan,23.9,22.52,4
+2024-07-08,17:24,B100079,Completed,UberXL,53.85,20.65,1
+2024-10-22,00:46,B100080,Cancelled by Customer,Auto,48.7,8.32,5
+2024-07-31,07:59,B100081,Completed,Auto,63.72,26.32,5
+2024-07-26,10:11,B100082,Completed,Auto,99.96,5.9,5
+2024-08-24,11:35,B100083,Completed,Go Mini,79.25,2.56,5
+2024-12-03,15:03,B100084,Cancelled by Driver,Go Sedan,45.81,21.81,5
+2024-02-22,04:55,B100085,Completed,Auto,84.48,14.79,4
+2024-10-06,04:07,B100086,Completed,Auto,25.36,25.62,4
+2024-08-04,09:48,B100087,Cancelled by Customer,eBike/Bike,12.74,12.12,3
+2024-09-08,08:53,B100088,Cancelled by Customer,Go Mini,28.4,5.88,3
+2024-07-06,18:28,B100089,Completed,UberXL,40.64,25.26,5
+2024-02-10,13:39,B100090,Cancelled by Customer,Auto,55.95,16.92,5
+2024-06-05,08:21,B100091,Completed,eBike/Bike,65.36,6.49,5
+2024-01-15,10:22,B100092,Completed,Premier Sedan,91.95,21.89,5
+2024-10-27,00:45,B100093,Completed,UberXL,55.89,15.82,3
+2024-03-05,04:20,B100094,Completed,Auto,55.11,18.53,3
+2024-12-10,13:35,B100095,Cancelled by Customer,Auto,14.52,14.37,5
+2024-11-22,21:22,B100096,Completed,eBike/Bike,13.14,25.03,5
+2024-01-09,00:53,B100097,Completed,Go Mini,59.6,25.06,5
+2024-12-09,22:50,B100098,Cancelled by Customer,Auto,49.44,21.57,5
+2024-05-08,07:14,B100099,Cancelled by Customer,Premier Sedan,85.53,4.06,5
+2024-05-15,20:46,B100100,Completed,Auto,24.46,25.33,5
+2024-03-03,08:52,B100101,Completed,Premier Sedan,12.25,20.46,2
+2024-05-18,08:09,B100102,Completed,UberXL,50.41,21.21,5
+2024-03-21,19:56,B100103,Cancelled by Customer,UberXL,31.37,11.53,5
+2024-06-11,20:25,B100104,Completed,Go Sedan,14.47,26.5,4
+2024-10-15,08:34,B100105,Cancelled by Driver,Go Sedan,75.21,22.04,5
+2024-09-17,19:24,B100106,Completed,Premier Sedan,20.04,4.27,4
+2024-08-18,10:37,B100107,Completed,Go Mini,64.75,12.83,5
+2024-02-10,01:06,B100108,Completed,Auto,35.29,26.71,1
+2024-01-28,17:26,B100109,Completed,Auto,25.61,2.37,5
+2024-05-14,01:26,B100110,Completed,Go Sedan,44.18,28.88,3
+2024-07-19,16:42,B100111,Cancelled by Driver,Premier Sedan,82.13,20.7,5
+2024-11-23,11:58,B100112,Completed,Auto,45.29,19.31,3
+2024-09-24,18:53,B100113,Completed,Auto,77.57,8.85,4
+2024-02-02,23:24,B100114,Cancelled by Customer,Go Mini,21.29,8.21,4
+2024-02-17,06:51,B100115,Completed,eBike/Bike,79.55,28.32,5
+2024-03-02,05:52,B100116,Cancelled by Customer,Go Sedan,31.32,9.65,4
+2024-08-03,23:32,B100117,Completed,Go Sedan,70.97,23.49,3
+2024-10-19,16:28,B100118,Completed,eBike/Bike,60.92,12.4,5
+2024-04-08,10:21,B100119,Completed,Auto,93.62,5.04,5
+2024-06-20,17:20,B100120,Completed,Go Mini,44.86,1.31,5
+2024-12-25,16:06,B100121,Cancelled by Driver,Go Mini,15.95,16.78,3
+2024-08-01,16:19,B100122,Completed,Go Sedan,11.72,29.3,5
+2024-02-04,08:48,B100123,Completed,Go Mini,84.42,11.7,4
+2024-08-14,19:53,B100124,Completed,UberXL,57.23,11.36,3
+2024-04-10,21:27,B100125,Completed,eBike/Bike,79.77,10.98,5
+2024-05-10,07:48,B100126,Cancelled by Customer,Auto,31.1,16.1,5
+2024-09-13,06:00,B100127,Completed,UberXL,41.06,13.78,5
+2024-01-05,12:29,B100128,Cancelled by Customer,eBike/Bike,12.71,26.52,4
+2024-08-05,22:50,B100129,Cancelled by Driver,Premier Sedan,96.53,15.66,4
+2024-09-11,23:18,B100130,Completed,Go Sedan,70.11,15.72,4
+2024-12-24,16:44,B100131,Cancelled by Driver,Go Mini,93.99,5.01,5
+2024-10-09,15:39,B100132,Completed,Premier Sedan,33.89,29.5,4
+2024-07-25,18:17,B100133,Completed,Go Mini,65.03,8.25,4
+2024-01-15,00:13,B100134,Completed,UberXL,71.06,3.13,4
+2024-12-11,18:46,B100135,Cancelled by Customer,Auto,38.58,20.23,5
+2024-02-11,17:01,B100136,Cancelled by Driver,Auto,86.33,18.27,4
+2024-06-27,21:27,B100137,Completed,Auto,95.24,13.04,5
+2024-03-03,16:49,B100138,Completed,Go Mini,89.64,13.24,4
+2024-12-17,05:50,B100139,Completed,Premier Sedan,76.52,23.77,5
+2024-08-18,03:00,B100140,Completed,Auto,34.97,6.68,3
+2024-08-28,07:28,B100141,Completed,Premier Sedan,35.35,24.79,5
+2024-02-21,22:38,B100142,Cancelled by Driver,Go Mini,96.7,19.81,5
+2024-04-05,02:31,B100143,Completed,UberXL,10.93,13.15,3
+2024-08-09,09:09,B100144,Completed,Premier Sedan,74.44,14.28,5
+2024-08-18,18:45,B100145,Completed,UberXL,73.56,8.44,4
+2024-08-24,01:59,B100146,Completed,Go Mini,66.04,22.81,5
+2024-05-22,00:22,B100147,Completed,Go Mini,99.11,15.87,5
+2024-06-19,22:27,B100148,Completed,Go Sedan,38.07,10.3,4
+2024-01-29,17:06,B100149,Cancelled by Customer,Go Mini,40.6,18.29,3
+2024-02-05,07:00,B100150,Completed,Go Mini,17.1,29.88,4
+2024-01-13,22:02,B100151,Completed,eBike/Bike,49.85,13.62,2
+2024-06-08,23:22,B100152,Completed,Auto,33.49,27.7,3
+2024-11-22,07:53,B100153,Cancelled by Customer,Go Sedan,40.9,11.01,3
+2024-07-05,14:36,B100154,Cancelled by Customer,Go Sedan,85.11,2.59,4
+2024-08-30,02:50,B100155,Completed,Go Sedan,94.19,6.92,5
+2024-03-26,00:27,B100156,Cancelled by Customer,eBike/Bike,26.72,13.14,3
+2024-10-10,14:07,B100157,Completed,UberXL,43.53,7.37,3
+2024-03-06,01:34,B100158,Completed,Go Mini,93.58,1.01,5
+2024-06-18,23:13,B100159,Completed,Auto,15.56,27.54,3
+2024-02-14,23:45,B100160,Completed,Premier Sedan,18.31,25.47,2
+2024-03-02,10:15,B100161,Completed,UberXL,24.65,22.53,3
+2024-05-13,03:51,B100162,Cancelled by Driver,Go Mini,63.57,5.87,5
+2024-10-10,04:53,B100163,Cancelled by Customer,eBike/Bike,23.54,4.49,5
+2024-01-28,20:13,B100164,Cancelled by Customer,Go Mini,97.13,2.96,4
+2024-04-17,22:47,B100165,Completed,Go Mini,50.2,22.0,5
+2024-02-13,17:06,B100166,Completed,eBike/Bike,55.14,27.94,5
+2024-12-05,09:06,B100167,Completed,Go Sedan,32.2,13.49,5
+2024-10-12,00:22,B100168,Completed,Go Sedan,52.39,4.46,5
+2024-11-26,20:18,B100169,Completed,Auto,69.57,15.86,5
+2024-05-07,15:18,B100170,Completed,Auto,77.61,11.12,4
+2024-12-13,03:28,B100171,Cancelled by Customer,Go Sedan,77.85,11.87,1
+2024-08-18,17:01,B100172,Completed,UberXL,62.01,19.02,4
+2024-07-08,00:46,B100173,Completed,Premier Sedan,91.39,21.84,5
+2024-08-12,04:19,B100174,Cancelled by Customer,Go Mini,83.57,4.21,5
+2024-10-09,10:41,B100175,Completed,Premier Sedan,78.13,2.03,5
+2024-04-30,01:02,B100176,Completed,Go Mini,15.0,29.84,5
+2024-04-25,22:54,B100177,Completed,Go Sedan,10.62,7.75,3
+2024-08-20,11:19,B100178,Completed,Auto,29.12,2.56,5
+2024-09-15,04:36,B100179,Cancelled by Customer,UberXL,69.72,6.51,5
+2024-12-24,05:29,B100180,Completed,Auto,47.01,2.13,5
+2024-07-16,08:33,B100181,Completed,Premier Sedan,46.22,12.36,5
+2024-05-16,20:43,B100182,Cancelled by Customer,Auto,89.61,24.27,5
+2024-11-13,02:51,B100183,Cancelled by Customer,Go Sedan,90.6,10.9,4
+2024-06-13,21:43,B100184,Cancelled by Customer,UberXL,91.83,13.88,5
+2024-08-12,23:16,B100185,Completed,Premier Sedan,38.25,20.59,3
+2024-11-02,09:29,B100186,Completed,UberXL,72.2,15.76,5
+2024-08-21,23:58,B100187,Cancelled by Driver,Go Mini,34.45,25.98,5
+2024-06-20,13:22,B100188,Cancelled by Customer,Auto,27.15,26.12,4
+2024-05-31,16:49,B100189,Completed,UberXL,26.62,1.29,5
+2024-11-10,18:16,B100190,Completed,eBike/Bike,40.79,23.56,4
+2024-06-08,13:08,B100191,Completed,Auto,48.7,14.36,4
+2024-04-05,07:01,B100192,Cancelled by Driver,Go Mini,84.79,29.68,4
+2024-08-20,12:24,B100193,Completed,UberXL,20.79,15.01,5
+2024-06-28,06:08,B100194,Completed,Premier Sedan,76.14,29.62,5
+2024-04-22,21:21,B100195,Completed,Go Mini,57.83,22.88,5
+2024-11-13,10:45,B100196,Completed,eBike/Bike,35.92,8.21,3
+2024-02-21,03:25,B100197,Cancelled by Customer,UberXL,54.35,16.61,5
+2024-09-24,12:33,B100198,Completed,Go Sedan,36.99,29.77,5
+2024-10-21,22:36,B100199,Cancelled by Customer,Auto,63.65,25.87,4
+2024-04-22,10:05,B100200,Cancelled by Driver,Premier Sedan,49.05,3.82,2
+2024-04-10,17:20,B100201,Completed,Go Sedan,24.8,21.48,4
+2024-04-22,09:35,B100202,Completed,UberXL,20.49,11.02,5
+2024-03-21,08:37,B100203,Completed,UberXL,59.2,1.2,5
+2024-07-05,01:16,B100204,Cancelled by Customer,Go Mini,91.22,12.7,5
+2024-04-22,04:24,B100205,Completed,UberXL,40.96,7.81,4
+2024-01-02,05:57,B100206,Completed,Premier Sedan,75.97,24.75,5
+2024-05-09,11:22,B100207,Cancelled by Customer,Go Sedan,69.28,10.78,1
+2024-08-07,20:41,B100208,Completed,Premier Sedan,93.84,25.0,4
+2024-02-23,21:20,B100209,Cancelled by Driver,eBike/Bike,83.89,1.02,5
+2024-12-08,05:26,B100210,Completed,eBike/Bike,60.99,9.93,3
+2024-08-11,07:33,B100211,Completed,Auto,69.13,7.99,5
+2024-08-12,11:44,B100212,Cancelled by Customer,Auto,90.85,7.77,4
+2024-05-05,20:06,B100213,Cancelled by Customer,eBike/Bike,45.96,2.98,5
+2024-05-09,09:44,B100214,Completed,UberXL,39.41,6.43,4
+2024-02-22,16:25,B100215,Cancelled by Customer,Premier Sedan,10.97,17.11,5
+2024-06-20,20:27,B100216,Cancelled by Driver,eBike/Bike,84.39,9.45,3
+2024-08-05,13:01,B100217,Completed,Auto,82.09,13.1,1
+2024-06-08,21:42,B100218,Cancelled by Driver,eBike/Bike,19.4,11.93,5
+2024-07-16,00:50,B100219,Completed,UberXL,61.92,26.4,4
+2024-09-03,20:35,B100220,Completed,eBike/Bike,51.76,27.25,5
+2024-11-19,18:25,B100221,Completed,Premier Sedan,20.68,15.3,5
+2024-07-21,20:10,B100222,Cancelled by Customer,Go Sedan,98.25,10.57,4
+2024-07-02,07:10,B100223,Completed,UberXL,29.32,4.1,4
+2024-05-02,03:48,B100224,Completed,Auto,16.05,28.65,5
+2024-09-11,06:39,B100225,Completed,Premier Sedan,63.54,2.75,5
+2024-10-20,02:53,B100226,Completed,eBike/Bike,76.5,9.63,5
+2024-10-06,01:54,B100227,Completed,eBike/Bike,12.92,9.64,5
+2024-11-20,14:23,B100228,Cancelled by Customer,Go Sedan,69.28,10.29,5
+2024-04-07,21:21,B100229,Cancelled by Customer,Auto,57.91,5.76,3
+2024-07-16,04:55,B100230,Completed,Auto,19.29,23.71,5
+2024-08-27,00:57,B100231,Cancelled by Driver,Go Mini,25.53,4.55,5
+2024-05-23,03:46,B100232,Completed,Auto,61.12,19.41,3
+2024-04-06,19:18,B100233,Cancelled by Driver,Go Sedan,36.67,4.59,4
+2024-07-19,02:51,B100234,Cancelled by Customer,Go Mini,94.45,3.05,3
+2024-05-03,10:16,B100235,Completed,Go Mini,83.69,27.37,4
+2024-07-05,12:42,B100236,Completed,eBike/Bike,98.52,6.51,5
+2024-11-21,01:08,B100237,Cancelled by Customer,eBike/Bike,33.37,24.82,4
+2024-12-14,01:52,B100238,Completed,Auto,97.28,16.79,2
+2024-09-15,08:08,B100239,Completed,Go Mini,48.81,3.26,4
+2024-05-27,07:16,B100240,Completed,eBike/Bike,41.28,28.71,5
+2024-09-08,00:24,B100241,Completed,Go Sedan,14.53,8.16,5
+2024-12-11,10:39,B100242,Completed,eBike/Bike,14.75,25.93,4
+2024-05-26,09:24,B100243,Cancelled by Customer,UberXL,72.28,5.9,3
+2024-05-27,06:34,B100244,Cancelled by Customer,UberXL,51.21,25.76,5
+2024-12-17,02:49,B100245,Completed,eBike/Bike,30.39,1.38,5
+2024-07-17,04:43,B100246,Cancelled by Customer,Go Mini,65.26,15.84,4
+2024-11-03,11:50,B100247,Completed,Go Mini,32.76,23.31,2
+2024-05-07,05:33,B100248,Cancelled by Customer,Premier Sedan,61.99,28.11,2
+2024-02-08,11:18,B100249,Cancelled by Customer,UberXL,42.33,27.37,3
+2024-12-03,04:43,B100250,Completed,Go Sedan,84.12,24.77,5
+2024-12-25,16:16,B100251,Cancelled by Customer,Go Mini,83.86,26.76,5
+2024-05-08,09:56,B100252,Completed,Auto,52.96,6.78,4
+2024-09-23,22:48,B100253,Completed,UberXL,41.57,9.24,5
+2024-05-30,14:11,B100254,Cancelled by Customer,Go Sedan,42.63,9.38,4
+2024-10-24,15:23,B100255,Completed,Go Sedan,82.51,11.93,5
+2024-04-08,18:07,B100256,Completed,Go Mini,39.54,12.41,5
+2024-09-19,20:16,B100257,Completed,Go Sedan,28.82,16.79,3
+2024-09-08,22:36,B100258,Cancelled by Customer,Go Mini,17.62,5.64,4
+2024-05-23,21:15,B100259,Completed,eBike/Bike,52.0,21.05,5
+2024-12-11,05:07,B100260,Completed,UberXL,53.39,5.86,2
+2024-04-21,17:24,B100261,Cancelled by Customer,Premier Sedan,85.68,10.0,4
+2024-02-29,11:14,B100262,Cancelled by Customer,eBike/Bike,29.91,15.6,5
+2024-01-02,08:44,B100263,Completed,UberXL,44.29,24.1,5
+2024-10-30,14:31,B100264,Completed,Go Mini,82.76,22.44,4
+2024-09-10,09:15,B100265,Completed,UberXL,84.13,19.72,5
+2024-05-19,06:16,B100266,Completed,Go Mini,44.61,5.52,4
+2024-02-06,22:25,B100267,Completed,eBike/Bike,51.32,16.86,5
+2024-06-08,20:21,B100268,Cancelled by Customer,Auto,37.3,3.54,5
+2024-01-09,06:13,B100269,Completed,Auto,93.93,11.94,5
+2024-08-20,14:52,B100270,Completed,UberXL,20.68,12.99,4
+2024-04-08,06:08,B100271,Completed,Auto,94.04,2.15,5
+2024-05-26,18:47,B100272,Cancelled by Customer,Go Mini,71.55,8.95,5
+2024-10-30,07:49,B100273,Completed,Go Sedan,57.84,28.71,4
+2024-07-26,22:28,B100274,Cancelled by Driver,Go Mini,12.94,28.66,3
+2024-05-10,17:30,B100275,Completed,Go Sedan,52.8,11.22,2
+2024-05-31,19:38,B100276,Completed,eBike/Bike,46.7,2.25,1
+2024-02-23,02:17,B100277,Cancelled by Customer,Premier Sedan,24.51,6.19,5
+2024-04-29,09:38,B100278,Completed,Go Sedan,69.08,12.37,4
+2024-06-09,16:13,B100279,Cancelled by Customer,Auto,97.4,28.49,4
+2024-04-25,23:34,B100280,Completed,Go Mini,60.6,5.09,5
+2024-03-15,11:59,B100281,Completed,eBike/Bike,74.33,23.14,4
+2024-04-22,12:33,B100282,Cancelled by Customer,Auto,16.16,4.15,5
+2024-04-13,02:36,B100283,Completed,eBike/Bike,47.59,29.46,3
+2024-12-05,10:39,B100284,Cancelled by Customer,Premier Sedan,20.47,12.07,5
+2024-09-10,22:22,B100285,Completed,Go Mini,65.15,23.48,5
+2024-08-14,11:38,B100286,Completed,UberXL,94.46,10.94,5
+2024-04-21,14:55,B100287,Cancelled by Customer,Go Mini,69.56,19.2,4
+2024-04-08,16:03,B100288,Completed,Premier Sedan,16.91,6.57,5
+2024-06-01,21:24,B100289,Completed,Go Mini,41.92,5.23,3
+2024-12-14,12:17,B100290,Completed,UberXL,59.56,28.2,1
+2024-12-03,00:15,B100291,Completed,Go Sedan,46.29,27.61,1
+2024-07-12,12:41,B100292,Completed,eBike/Bike,85.03,26.74,5
+2024-11-05,11:01,B100293,Completed,UberXL,83.32,19.14,4
+2024-06-11,22:34,B100294,Cancelled by Driver,Auto,65.06,24.44,5
+2024-07-26,09:33,B100295,Cancelled by Customer,Premier Sedan,43.61,3.0,1
+2024-06-17,22:12,B100296,Cancelled by Customer,Go Sedan,32.98,10.71,4
+2024-06-09,12:17,B100297,Cancelled by Customer,Auto,19.53,10.1,5
+2024-03-08,02:58,B100298,Cancelled by Customer,Auto,41.94,19.43,4
+2024-10-15,06:45,B100299,Completed,Premier Sedan,47.19,11.32,5
+2024-10-03,19:28,B100300,Cancelled by Driver,Go Sedan,70.82,5.31,4
+2024-10-30,16:28,B100301,Cancelled by Customer,Auto,69.23,18.3,5
+2024-05-14,20:43,B100302,Completed,Auto,16.31,24.62,5
+2024-07-13,15:55,B100303,Completed,Go Sedan,45.57,12.08,4
+2024-05-07,11:46,B100304,Completed,Go Mini,26.36,4.84,4
+2024-02-02,09:29,B100305,Completed,Auto,24.11,6.7,5
+2024-06-24,06:19,B100306,Cancelled by Customer,eBike/Bike,84.46,7.89,5
+2024-01-22,04:00,B100307,Completed,Go Sedan,13.77,9.7,4
+2024-08-25,16:02,B100308,Completed,Auto,47.73,19.64,4
+2024-06-06,12:13,B100309,Cancelled by Driver,Premier Sedan,25.14,18.43,5
+2024-02-07,23:29,B100310,Completed,UberXL,89.14,21.19,5
+2024-08-17,17:03,B100311,Completed,eBike/Bike,60.13,11.51,4
+2024-12-30,17:36,B100312,Completed,UberXL,30.82,24.9,4
+2024-02-20,15:00,B100313,Cancelled by Customer,UberXL,55.22,6.92,4
+2024-09-20,20:45,B100314,Cancelled by Driver,Auto,75.83,14.6,5
+2024-10-09,14:08,B100315,Completed,eBike/Bike,96.23,24.23,4
+2024-01-27,14:48,B100316,Cancelled by Customer,eBike/Bike,29.84,6.22,5
+2024-08-13,23:03,B100317,Completed,Go Mini,89.76,4.19,4
+2024-10-03,11:58,B100318,Cancelled by Driver,UberXL,94.09,26.63,4
+2024-10-12,04:36,B100319,Cancelled by Customer,eBike/Bike,92.48,10.94,5
+2024-04-06,10:59,B100320,Cancelled by Customer,Go Mini,67.19,20.83,5
+2024-10-10,05:38,B100321,Completed,Go Sedan,66.68,1.74,5
+2024-11-12,23:45,B100322,Cancelled by Driver,Go Mini,46.29,21.01,4
+2024-10-30,23:10,B100323,Cancelled by Customer,Premier Sedan,77.72,10.17,5
+2024-05-26,12:33,B100324,Completed,Auto,57.82,2.62,5
+2024-01-04,06:51,B100325,Cancelled by Customer,Go Sedan,70.97,18.68,4
+2024-02-04,03:58,B100326,Completed,Go Sedan,48.56,7.98,3
+2024-07-10,07:19,B100327,Cancelled by Customer,Premier Sedan,75.83,12.22,4
+2024-02-18,21:52,B100328,Completed,Go Mini,84.2,3.34,4
+2024-01-17,18:44,B100329,Cancelled by Customer,Auto,23.18,5.27,5
+2024-06-20,13:09,B100330,Completed,Go Mini,84.96,9.64,4
+2024-08-07,10:33,B100331,Completed,eBike/Bike,58.63,3.6,5
+2024-06-06,08:48,B100332,Completed,Go Mini,86.02,27.41,5
+2024-02-15,02:55,B100333,Completed,Go Sedan,48.82,1.18,5
+2024-01-06,05:04,B100334,Completed,Auto,44.11,15.03,5
+2024-04-08,04:53,B100335,Completed,Go Mini,92.36,4.57,3
+2024-08-20,14:22,B100336,Completed,Auto,32.61,9.92,4
+2024-02-06,16:08,B100337,Completed,Auto,85.98,27.86,2
+2024-10-06,02:19,B100338,Completed,eBike/Bike,53.56,5.69,5
+2024-12-14,16:58,B100339,Cancelled by Customer,eBike/Bike,56.27,29.01,4
+2024-10-28,09:34,B100340,Completed,Go Sedan,37.76,6.97,5
+2024-06-29,17:17,B100341,Cancelled by Driver,Premier Sedan,61.57,22.51,4
+2024-04-04,16:23,B100342,Cancelled by Customer,Auto,39.27,16.85,3
+2024-04-08,02:31,B100343,Cancelled by Customer,Premier Sedan,13.53,26.65,4
+2024-07-06,02:37,B100344,Completed,Go Sedan,34.48,17.07,5
+2024-04-25,12:55,B100345,Cancelled by Customer,Auto,10.57,16.5,5
+2024-07-09,14:24,B100346,Completed,Auto,98.05,6.67,4
+2024-09-09,08:03,B100347,Completed,UberXL,96.92,5.82,5
+2024-06-09,13:36,B100348,Completed,Premier Sedan,45.56,27.58,2
+2024-09-12,01:10,B100349,Cancelled by Customer,Go Mini,75.55,10.51,5
+2024-11-18,08:55,B100350,Completed,eBike/Bike,41.12,11.79,5
+2024-05-07,02:58,B100351,Completed,Go Mini,70.4,23.03,4
+2024-01-18,08:02,B100352,Cancelled by Driver,Premier Sedan,82.49,10.83,5
+2024-10-07,01:11,B100353,Cancelled by Customer,eBike/Bike,95.21,28.61,3
+2024-08-10,09:08,B100354,Completed,Go Mini,46.02,22.4,5
+2024-02-23,14:39,B100355,Completed,UberXL,80.5,18.33,3
+2024-02-27,04:10,B100356,Cancelled by Customer,eBike/Bike,33.93,26.55,5
+2024-11-18,01:23,B100357,Completed,Auto,99.13,2.44,4
+2024-12-25,14:37,B100358,Completed,Go Mini,12.32,8.45,5
+2024-06-22,07:58,B100359,Completed,eBike/Bike,64.32,14.49,5
+2024-10-06,04:47,B100360,Cancelled by Driver,UberXL,69.36,7.58,5
+2024-04-23,17:05,B100361,Cancelled by Customer,eBike/Bike,71.92,22.57,5
+2024-10-14,04:59,B100362,Cancelled by Customer,eBike/Bike,20.83,27.66,5
+2024-12-07,15:12,B100363,Cancelled by Customer,UberXL,94.47,13.29,2
+2024-05-30,04:12,B100364,Completed,Go Mini,26.31,10.92,4
+2024-05-06,16:49,B100365,Completed,Go Sedan,66.05,28.88,4
+2024-06-03,07:44,B100366,Completed,Go Mini,30.04,13.9,5
+2024-09-29,18:57,B100367,Completed,Premier Sedan,37.65,15.18,4
+2024-04-13,02:55,B100368,Completed,UberXL,59.18,11.2,5
+2024-10-25,07:33,B100369,Cancelled by Customer,Go Mini,47.55,27.38,5
+2024-09-02,07:26,B100370,Completed,eBike/Bike,24.42,17.5,4
+2024-06-24,12:44,B100371,Cancelled by Customer,UberXL,25.38,23.1,4
+2024-02-08,00:05,B100372,Completed,Auto,47.63,24.54,4
+2024-06-18,23:18,B100373,Completed,Go Mini,78.16,10.91,4
+2024-09-03,15:39,B100374,Completed,UberXL,90.82,13.58,4
+2024-01-26,00:58,B100375,Completed,Go Mini,17.57,25.61,1
+2024-12-20,15:40,B100376,Cancelled by Customer,UberXL,45.38,11.53,5
+2024-11-01,12:42,B100377,Completed,eBike/Bike,19.02,24.02,5
+2024-01-13,12:24,B100378,Completed,Auto,11.49,28.29,4
+2024-11-11,20:41,B100379,Completed,Auto,69.55,19.07,4
+2024-11-08,03:26,B100380,Completed,Premier Sedan,64.22,22.51,1
+2024-02-05,05:59,B100381,Completed,UberXL,24.67,24.35,5
+2024-06-21,06:04,B100382,Completed,Go Mini,31.04,25.51,5
+2024-01-20,10:44,B100383,Cancelled by Driver,Auto,12.13,12.46,3
+2024-11-16,18:30,B100384,Completed,Auto,85.15,2.49,3
+2024-09-20,22:41,B100385,Cancelled by Customer,Go Sedan,97.72,12.65,5
+2024-05-21,09:31,B100386,Completed,Go Sedan,22.19,20.54,5
+2024-05-22,10:52,B100387,Completed,Auto,30.83,14.06,1
+2024-04-01,06:30,B100388,Completed,UberXL,88.16,22.72,5
+2024-12-19,17:35,B100389,Completed,Premier Sedan,93.38,11.35,4
+2024-11-17,01:13,B100390,Completed,Auto,47.77,19.41,4
+2024-10-14,12:28,B100391,Completed,eBike/Bike,14.56,6.41,5
+2024-08-02,11:38,B100392,Completed,Go Mini,13.55,22.73,5
+2024-12-07,01:31,B100393,Completed,Premier Sedan,61.66,16.83,4
+2024-02-20,12:45,B100394,Completed,eBike/Bike,45.36,6.92,5
+2024-06-01,16:40,B100395,Cancelled by Driver,Premier Sedan,12.58,9.47,4
+2024-07-04,16:39,B100396,Completed,eBike/Bike,62.49,22.71,5
+2024-03-03,01:59,B100397,Completed,Go Mini,11.02,15.0,4
+2024-07-08,23:44,B100398,Completed,Go Mini,80.86,7.26,5
+2024-05-04,02:47,B100399,Completed,Go Sedan,37.58,29.05,5
+2024-05-29,05:18,B100400,Completed,UberXL,13.62,21.74,2
+2024-11-09,06:09,B100401,Completed,eBike/Bike,62.95,28.76,5
+2024-02-27,08:31,B100402,Completed,Go Sedan,45.79,13.39,5
+2024-12-07,01:27,B100403,Completed,eBike/Bike,97.64,14.78,5
+2024-10-31,14:29,B100404,Completed,Go Sedan,58.98,27.04,4
+2024-06-28,04:28,B100405,Completed,Go Mini,34.77,16.23,5
+2024-06-18,21:03,B100406,Completed,Premier Sedan,73.85,21.51,5
+2024-11-21,19:31,B100407,Completed,Go Sedan,34.43,8.31,4
+2024-09-27,03:49,B100408,Completed,eBike/Bike,91.38,13.96,5
+2024-02-23,03:26,B100409,Cancelled by Customer,eBike/Bike,43.72,4.58,1
+2024-04-10,16:11,B100410,Completed,UberXL,59.49,6.97,3
+2024-09-20,21:16,B100411,Completed,Go Mini,14.55,1.03,5
+2024-02-22,09:53,B100412,Completed,eBike/Bike,48.35,2.14,5
+2024-02-29,00:21,B100413,Cancelled by Driver,Auto,84.91,29.34,5
+2024-04-17,23:58,B100414,Completed,Premier Sedan,82.51,8.03,1
+2024-01-05,17:49,B100415,Completed,Go Sedan,30.19,20.24,5
+2024-04-12,13:46,B100416,Completed,UberXL,30.35,25.33,1
+2024-07-14,11:35,B100417,Completed,Premier Sedan,83.56,16.97,3
+2024-09-18,02:51,B100418,Completed,Go Mini,93.74,5.44,1
+2024-12-30,11:06,B100419,Completed,UberXL,18.58,22.12,5
+2024-12-15,10:32,B100420,Cancelled by Customer,Go Sedan,50.51,18.41,5
+2024-02-16,05:46,B100421,Completed,Go Sedan,40.37,22.21,5
+2024-12-20,14:31,B100422,Cancelled by Customer,Auto,88.36,23.32,5
+2024-11-06,18:10,B100423,Cancelled by Driver,Go Mini,17.52,29.29,1
+2024-11-03,22:25,B100424,Completed,UberXL,29.0,17.63,5
+2024-05-23,01:45,B100425,Completed,UberXL,77.72,10.91,4
+2024-09-25,01:28,B100426,Completed,eBike/Bike,14.62,19.81,4
+2024-05-03,03:16,B100427,Completed,Auto,54.33,2.98,2
+2024-04-15,02:12,B100428,Completed,Auto,49.79,27.02,5
+2024-06-06,08:38,B100429,Cancelled by Driver,UberXL,40.1,4.46,5
+2024-05-26,14:54,B100430,Cancelled by Customer,UberXL,45.51,10.51,5
+2024-05-24,10:51,B100431,Completed,Premier Sedan,57.69,24.66,4
+2024-04-29,01:46,B100432,Completed,Premier Sedan,24.52,18.32,3
+2024-11-14,13:19,B100433,Cancelled by Customer,Premier Sedan,61.48,12.42,5
+2024-10-01,21:10,B100434,Cancelled by Driver,Auto,82.49,14.73,3
+2024-04-01,02:16,B100435,Cancelled by Customer,eBike/Bike,78.41,25.78,5
+2024-02-27,11:55,B100436,Completed,Go Sedan,23.85,10.86,5
+2024-12-11,20:46,B100437,Completed,Premier Sedan,23.43,26.22,3
+2024-08-16,15:36,B100438,Completed,eBike/Bike,34.14,3.56,5
+2024-04-26,19:05,B100439,Completed,Go Mini,42.5,23.53,5
+2024-11-13,18:56,B100440,Completed,Premier Sedan,46.76,25.58,2
+2024-10-05,04:02,B100441,Completed,Go Sedan,71.17,6.27,5
+2024-05-06,00:57,B100442,Cancelled by Customer,Go Mini,15.1,13.48,4
+2024-05-08,05:14,B100443,Completed,Go Mini,13.12,5.8,5
+2024-02-27,01:34,B100444,Completed,Go Sedan,45.27,21.49,5
+2024-05-01,16:24,B100445,Completed,Premier Sedan,72.74,16.53,5
+2024-01-01,23:11,B100446,Completed,Auto,27.41,19.42,5
+2024-08-26,17:14,B100447,Completed,Go Sedan,67.74,6.7,4
+2024-10-16,11:15,B100448,Completed,Go Sedan,33.38,7.14,5
+2024-04-05,07:59,B100449,Cancelled by Customer,Go Sedan,89.75,2.2,3
+2024-05-05,13:24,B100450,Completed,Go Mini,90.61,10.34,5
+2024-04-27,16:28,B100451,Completed,eBike/Bike,36.76,17.23,5
+2024-02-17,20:07,B100452,Completed,Auto,30.7,25.88,2
+2024-03-29,14:26,B100453,Cancelled by Driver,Premier Sedan,47.02,20.34,4
+2024-08-24,13:49,B100454,Cancelled by Customer,Premier Sedan,31.65,13.63,5
+2024-09-28,19:06,B100455,Cancelled by Customer,eBike/Bike,70.51,28.64,5
+2024-07-07,02:28,B100456,Completed,Go Sedan,84.35,21.86,2
+2024-07-10,11:52,B100457,Completed,Auto,70.58,27.97,2
+2024-03-09,23:59,B100458,Completed,Premier Sedan,84.19,16.3,4
+2024-10-04,02:19,B100459,Completed,UberXL,45.73,8.51,5
+2024-12-14,13:14,B100460,Cancelled by Driver,Premier Sedan,24.07,2.53,3
+2024-09-03,13:06,B100461,Completed,Go Sedan,76.42,22.06,5
+2024-03-16,16:43,B100462,Cancelled by Customer,UberXL,42.44,4.52,3
+2024-06-02,19:35,B100463,Cancelled by Customer,eBike/Bike,70.41,9.78,5
+2024-05-23,08:37,B100464,Completed,Auto,34.36,16.44,4
+2024-03-26,15:56,B100465,Cancelled by Driver,eBike/Bike,17.31,17.37,5
+2024-07-03,21:53,B100466,Completed,eBike/Bike,99.33,18.42,4
+2024-10-11,20:52,B100467,Completed,Auto,24.06,5.82,5
+2024-08-07,01:23,B100468,Completed,Auto,98.96,12.01,4
+2024-03-09,07:10,B100469,Completed,Premier Sedan,97.96,18.9,5
+2024-02-16,12:16,B100470,Completed,Premier Sedan,81.44,29.12,5
+2024-04-03,07:20,B100471,Completed,Auto,69.35,22.1,3
+2024-08-25,17:29,B100472,Completed,UberXL,62.0,27.76,5
+2024-07-22,17:45,B100473,Completed,Go Mini,87.95,23.1,5
+2024-08-05,14:30,B100474,Completed,Premier Sedan,36.05,18.16,3
+2024-12-06,05:31,B100475,Completed,Go Mini,52.09,6.57,4
+2024-02-08,10:44,B100476,Completed,UberXL,65.75,20.33,3
+2024-04-09,00:59,B100477,Completed,Auto,47.01,19.08,5
+2024-10-15,05:40,B100478,Cancelled by Customer,UberXL,48.47,18.47,5
+2024-09-10,07:10,B100479,Completed,Premier Sedan,39.73,15.2,3
+2024-08-09,21:50,B100480,Cancelled by Customer,eBike/Bike,60.78,16.33,5
+2024-12-22,23:40,B100481,Cancelled by Customer,Auto,86.55,10.7,5
+2024-01-23,16:11,B100482,Completed,Go Sedan,28.14,16.06,5
+2024-09-06,13:31,B100483,Cancelled by Customer,Go Mini,94.1,6.73,5
+2024-01-10,14:15,B100484,Completed,UberXL,72.02,24.35,5
+2024-09-02,21:21,B100485,Completed,Auto,84.09,6.39,5
+2024-11-20,19:32,B100486,Cancelled by Customer,UberXL,60.06,3.46,4
+2024-04-09,09:39,B100487,Completed,Auto,80.16,13.65,5
+2024-10-16,17:59,B100488,Cancelled by Customer,Premier Sedan,11.46,20.09,4
+2024-06-28,00:01,B100489,Cancelled by Customer,Premier Sedan,83.65,13.69,4
+2024-08-10,00:32,B100490,Cancelled by Customer,Premier Sedan,13.61,9.03,4
+2024-09-06,08:12,B100491,Cancelled by Driver,UberXL,90.09,17.19,5
+2024-05-26,00:12,B100492,Completed,Go Sedan,99.28,11.06,5
+2024-04-05,19:25,B100493,Completed,Premier Sedan,36.47,28.05,4
+2024-09-13,21:38,B100494,Completed,Auto,28.93,27.76,4
+2024-11-20,01:37,B100495,Completed,Premier Sedan,78.88,15.57,4
+2024-01-04,06:25,B100496,Completed,eBike/Bike,32.77,10.51,5
+2024-01-16,13:57,B100497,Cancelled by Customer,Premier Sedan,87.9,22.38,4
+2024-10-06,17:14,B100498,Cancelled by Customer,UberXL,19.26,2.06,5
+2024-12-01,01:41,B100499,Completed,Go Sedan,21.34,14.77,4
+2024-09-03,22:43,B100500,Completed,eBike/Bike,98.12,10.75,4
+2024-09-14,16:39,B100501,Completed,UberXL,70.65,27.7,3
+2024-06-08,10:02,B100502,Completed,UberXL,86.22,1.35,4
+2024-12-05,05:08,B100503,Cancelled by Customer,UberXL,39.19,17.03,5
+2024-05-31,05:08,B100504,Completed,Auto,70.88,22.48,4
+2024-06-26,06:30,B100505,Completed,UberXL,63.48,15.07,3
+2024-06-11,08:49,B100506,Completed,Auto,64.28,3.48,4
+2024-02-02,11:07,B100507,Completed,UberXL,71.43,29.2,4
+2024-06-27,07:49,B100508,Completed,Go Mini,61.78,16.02,1
+2024-04-10,19:46,B100509,Completed,eBike/Bike,48.62,18.81,4
+2024-09-24,06:10,B100510,Completed,Go Mini,34.83,7.86,5
+2024-11-18,19:15,B100511,Completed,UberXL,79.17,15.02,5
+2024-03-05,03:05,B100512,Completed,eBike/Bike,30.36,13.45,4
+2024-06-16,21:25,B100513,Cancelled by Customer,eBike/Bike,72.31,3.17,4
+2024-11-25,02:40,B100514,Completed,Go Sedan,31.0,4.08,5
+2024-02-12,09:13,B100515,Completed,Go Mini,66.28,25.29,4
+2024-02-13,10:17,B100516,Completed,Go Sedan,77.24,7.95,4
+2024-10-11,21:11,B100517,Cancelled by Driver,eBike/Bike,29.68,6.65,4
+2024-01-12,22:11,B100518,Completed,Auto,15.39,15.64,4
+2024-04-04,12:24,B100519,Cancelled by Customer,eBike/Bike,21.79,23.29,5
+2024-10-28,12:50,B100520,Completed,Go Sedan,64.54,2.8,4
+2024-09-09,18:54,B100521,Completed,Go Mini,86.45,17.73,5
+2024-08-29,13:35,B100522,Completed,UberXL,14.05,4.46,1
+2024-02-04,12:07,B100523,Completed,UberXL,76.07,2.06,4
+2024-08-02,22:52,B100524,Cancelled by Driver,Go Mini,40.72,2.53,5
+2024-12-02,22:31,B100525,Completed,UberXL,53.07,25.19,4
+2024-03-30,18:43,B100526,Completed,UberXL,93.6,4.42,5
+2024-09-20,17:05,B100527,Completed,Go Sedan,39.88,2.31,4
+2024-04-02,17:18,B100528,Completed,Go Mini,51.88,13.7,5
+2024-03-30,21:36,B100529,Completed,Premier Sedan,11.23,25.48,2
+2024-04-24,23:40,B100530,Completed,Auto,17.34,8.61,5
+2024-04-14,02:27,B100531,Cancelled by Customer,Auto,33.27,13.23,3
+2024-07-14,09:50,B100532,Completed,UberXL,12.51,2.16,5
+2024-11-09,02:28,B100533,Completed,Auto,66.82,14.02,4
+2024-04-23,21:14,B100534,Cancelled by Driver,Go Mini,48.38,17.75,5
+2024-03-15,00:06,B100535,Completed,Go Mini,59.33,17.56,4
+2024-08-04,11:48,B100536,Cancelled by Driver,eBike/Bike,25.72,10.64,5
+2024-10-03,20:30,B100537,Completed,eBike/Bike,36.63,10.15,3
+2024-09-05,23:19,B100538,Cancelled by Customer,Auto,69.74,4.09,3
+2024-06-12,04:03,B100539,Completed,Premier Sedan,96.88,11.64,4
+2024-12-22,11:19,B100540,Cancelled by Customer,eBike/Bike,14.54,3.89,2
+2024-07-10,23:49,B100541,Cancelled by Driver,eBike/Bike,90.13,23.23,3
+2024-08-14,16:50,B100542,Completed,Go Mini,61.92,29.02,5
+2024-06-25,08:35,B100543,Cancelled by Driver,Premier Sedan,60.75,29.13,5
+2024-04-08,20:33,B100544,Completed,UberXL,55.03,26.09,4
+2024-02-05,03:01,B100545,Completed,Auto,16.25,18.42,5
+2024-04-05,14:33,B100546,Completed,eBike/Bike,18.09,21.33,5
+2024-05-31,03:05,B100547,Completed,Premier Sedan,64.08,9.27,4
+2024-05-30,06:41,B100548,Completed,Premier Sedan,40.69,19.29,5
+2024-07-08,18:50,B100549,Completed,Auto,92.55,14.21,5
+2024-08-11,21:11,B100550,Completed,Premier Sedan,46.59,14.98,5
+2024-02-06,02:44,B100551,Cancelled by Customer,Premier Sedan,22.9,22.98,4
+2024-09-24,17:39,B100552,Cancelled by Customer,Premier Sedan,74.32,9.18,5
+2024-07-01,20:14,B100553,Completed,eBike/Bike,36.4,10.22,2
+2024-01-13,00:34,B100554,Completed,Auto,57.29,27.81,3
+2024-10-05,07:35,B100555,Completed,Premier Sedan,72.8,2.63,1
+2024-08-04,15:29,B100556,Completed,Premier Sedan,91.02,15.08,5
+2024-12-20,22:41,B100557,Completed,eBike/Bike,81.3,27.47,5
+2024-12-26,11:13,B100558,Completed,Auto,70.87,18.7,5
+2024-10-12,13:01,B100559,Completed,Go Mini,71.17,16.85,5
+2024-09-29,22:36,B100560,Cancelled by Driver,eBike/Bike,95.13,8.24,4
+2024-03-02,04:37,B100561,Completed,Auto,36.62,10.95,3
+2024-03-24,12:40,B100562,Completed,Premier Sedan,10.1,25.71,4
+2024-08-04,21:59,B100563,Completed,Auto,34.48,17.22,4
+2024-12-07,14:13,B100564,Completed,Auto,29.61,15.93,5
+2024-07-05,23:38,B100565,Completed,UberXL,69.57,3.89,5
+2024-01-19,19:01,B100566,Completed,Auto,67.03,1.46,2
+2024-06-25,06:05,B100567,Completed,Go Mini,63.41,28.95,1
+2024-04-09,16:58,B100568,Completed,Auto,11.46,11.93,3
+2024-08-20,01:34,B100569,Cancelled by Driver,Go Mini,75.59,18.49,4
+2024-03-16,04:04,B100570,Cancelled by Customer,Premier Sedan,39.12,3.31,5
+2024-09-21,00:39,B100571,Completed,Go Mini,69.86,20.81,5
+2024-10-10,11:55,B100572,Completed,Premier Sedan,60.09,28.04,5
+2024-07-24,03:44,B100573,Completed,Premier Sedan,40.85,17.69,4
+2024-08-10,22:46,B100574,Completed,Go Mini,22.11,4.66,4
+2024-02-21,10:09,B100575,Completed,eBike/Bike,18.5,17.87,3
+2024-12-04,02:53,B100576,Completed,Go Sedan,84.84,23.22,5
+2024-05-23,13:15,B100577,Completed,Auto,92.66,12.79,5
+2024-03-09,09:28,B100578,Completed,UberXL,68.48,26.52,3
+2024-04-08,09:11,B100579,Completed,Go Sedan,19.31,19.81,5
+2024-01-25,08:00,B100580,Cancelled by Driver,Auto,46.18,27.08,4
+2024-02-22,04:19,B100581,Cancelled by Driver,Auto,75.6,19.08,5
+2024-05-30,07:42,B100582,Cancelled by Customer,Premier Sedan,80.18,4.81,5
+2024-05-23,11:00,B100583,Completed,Auto,20.64,9.98,5
+2024-02-26,21:19,B100584,Cancelled by Customer,UberXL,10.0,6.85,5
+2024-02-08,10:36,B100585,Completed,Auto,74.09,27.36,2
+2024-04-18,14:36,B100586,Cancelled by Customer,Go Mini,42.09,23.05,2
+2024-06-29,11:36,B100587,Completed,Go Sedan,32.9,20.62,3
+2024-02-11,16:48,B100588,Cancelled by Customer,Go Mini,11.16,9.73,1
+2024-07-04,23:43,B100589,Completed,UberXL,58.63,6.34,5
+2024-08-10,23:27,B100590,Cancelled by Customer,Auto,86.6,22.94,5
+2024-05-01,14:14,B100591,Cancelled by Driver,UberXL,96.19,14.75,3
+2024-05-12,05:43,B100592,Completed,Premier Sedan,60.92,7.55,5
+2024-06-11,19:49,B100593,Completed,Go Mini,56.3,18.88,3
+2024-08-02,13:01,B100594,Cancelled by Driver,Go Mini,17.66,2.17,4
+2024-08-08,08:36,B100595,Completed,eBike/Bike,59.4,10.46,4
+2024-08-22,19:25,B100596,Cancelled by Customer,Auto,44.2,14.59,4
+2024-11-26,00:54,B100597,Completed,Premier Sedan,64.64,5.29,4
+2024-05-25,02:05,B100598,Completed,Go Mini,44.99,29.55,4
+2024-08-26,04:52,B100599,Completed,Go Mini,31.63,7.06,4
+2024-03-16,04:32,B100600,Completed,Premier Sedan,18.55,4.78,5
+2024-01-09,16:50,B100601,Cancelled by Customer,UberXL,38.34,6.9,2
+2024-03-14,13:11,B100602,Completed,UberXL,18.7,23.3,3
+2024-09-09,09:19,B100603,Completed,Auto,25.92,13.34,2
+2024-08-17,20:49,B100604,Completed,eBike/Bike,98.86,17.4,5
+2024-01-07,23:58,B100605,Completed,Go Mini,49.97,1.61,2
+2024-06-22,10:33,B100606,Cancelled by Customer,eBike/Bike,57.87,2.0,5
+2024-05-20,17:28,B100607,Cancelled by Driver,UberXL,88.63,13.93,5
+2024-06-16,06:30,B100608,Completed,UberXL,99.6,24.68,5
+2024-06-18,23:46,B100609,Cancelled by Customer,Go Sedan,62.44,26.67,5
+2024-10-09,10:49,B100610,Cancelled by Customer,Auto,83.12,3.51,3
+2024-05-01,22:43,B100611,Completed,Go Sedan,39.42,16.61,3
+2024-07-12,05:19,B100612,Cancelled by Driver,Go Sedan,37.52,27.48,4
+2024-01-05,22:44,B100613,Completed,Go Sedan,46.24,12.25,5
+2024-01-29,19:15,B100614,Completed,Auto,70.53,25.06,4
+2024-06-13,17:41,B100615,Cancelled by Customer,Auto,71.4,4.88,3
+2024-12-04,22:07,B100616,Completed,Premier Sedan,38.37,28.13,5
+2024-05-15,17:20,B100617,Cancelled by Customer,eBike/Bike,21.99,22.79,1
+2024-12-30,00:54,B100618,Cancelled by Customer,eBike/Bike,66.92,28.3,5
+2024-11-16,07:28,B100619,Completed,Premier Sedan,21.55,20.62,5
+2024-12-07,05:04,B100620,Cancelled by Customer,Premier Sedan,62.06,11.54,4
+2024-05-24,14:21,B100621,Completed,UberXL,72.41,28.21,3
+2024-11-22,14:33,B100622,Completed,Go Sedan,73.06,8.99,3
+2024-08-04,00:54,B100623,Completed,Premier Sedan,77.81,10.63,5
+2024-10-27,22:25,B100624,Cancelled by Driver,Go Mini,88.56,21.32,5
+2024-05-11,10:09,B100625,Completed,eBike/Bike,55.0,23.19,5
+2024-10-18,17:17,B100626,Completed,Premier Sedan,75.72,27.95,5
+2024-03-10,16:25,B100627,Cancelled by Customer,Go Mini,65.73,6.94,5
+2024-09-08,07:46,B100628,Cancelled by Customer,Go Mini,26.8,24.14,3
+2024-10-01,07:48,B100629,Cancelled by Customer,Go Mini,12.31,22.42,4
+2024-12-29,11:26,B100630,Completed,UberXL,35.61,2.85,5
+2024-06-30,07:24,B100631,Completed,UberXL,49.87,12.23,4
+2024-06-15,13:03,B100632,Completed,Go Mini,65.54,9.2,2
+2024-03-31,00:00,B100633,Cancelled by Customer,UberXL,86.5,9.83,5
+2024-07-20,18:30,B100634,Completed,Go Sedan,27.66,29.51,4
+2024-12-11,15:13,B100635,Completed,Go Mini,21.3,19.64,5
+2024-01-19,20:47,B100636,Cancelled by Driver,Go Sedan,96.71,21.81,5
+2024-02-08,04:40,B100637,Completed,Go Sedan,19.72,29.32,2
+2024-05-05,01:49,B100638,Cancelled by Driver,Go Mini,53.06,11.94,5
+2024-06-21,05:08,B100639,Cancelled by Customer,eBike/Bike,62.7,24.25,4
+2024-05-20,00:40,B100640,Cancelled by Customer,Go Mini,58.72,13.6,4
+2024-08-29,15:12,B100641,Completed,Go Mini,17.74,26.22,4
+2024-08-07,08:52,B100642,Completed,UberXL,15.13,6.24,2
+2024-05-05,12:30,B100643,Cancelled by Customer,Go Mini,19.49,28.48,4
+2024-02-27,08:10,B100644,Cancelled by Customer,eBike/Bike,62.7,7.34,3
+2024-05-27,03:33,B100645,Cancelled by Customer,UberXL,58.99,10.46,4
+2024-11-12,05:45,B100646,Completed,Auto,31.04,22.93,4
+2024-12-26,03:37,B100647,Cancelled by Customer,Auto,67.4,12.42,5
+2024-01-01,18:05,B100648,Cancelled by Customer,Go Sedan,83.81,18.64,5
+2024-12-13,01:17,B100649,Completed,Go Sedan,13.74,13.89,3
+2024-07-08,12:40,B100650,Cancelled by Customer,eBike/Bike,54.83,22.53,4
+2024-07-09,22:18,B100651,Cancelled by Customer,Premier Sedan,72.04,7.62,4
+2024-11-07,12:10,B100652,Completed,Auto,32.71,2.7,3
+2024-04-26,00:23,B100653,Completed,Go Sedan,37.7,9.7,5
+2024-05-13,21:06,B100654,Completed,Auto,65.23,14.75,5
+2024-02-27,20:14,B100655,Completed,eBike/Bike,90.81,5.87,3
+2024-02-13,00:11,B100656,Completed,eBike/Bike,82.89,11.29,4
+2024-06-21,06:14,B100657,Completed,Premier Sedan,62.48,12.6,3
+2024-06-08,20:18,B100658,Completed,Premier Sedan,75.72,2.66,5
+2024-06-21,00:48,B100659,Completed,UberXL,42.83,17.92,3
+2024-11-12,16:34,B100660,Completed,eBike/Bike,67.69,26.65,5
+2024-10-29,11:37,B100661,Cancelled by Customer,Go Sedan,51.96,5.4,5
+2024-05-28,10:34,B100662,Cancelled by Driver,Auto,27.09,18.34,4
+2024-03-20,07:45,B100663,Completed,Go Mini,73.16,20.28,5
+2024-07-31,13:09,B100664,Cancelled by Driver,Premier Sedan,60.08,13.16,5
+2024-07-21,01:45,B100665,Completed,Go Mini,42.28,21.33,5
+2024-09-08,08:02,B100666,Completed,Go Sedan,92.02,12.91,3
+2024-08-16,20:25,B100667,Completed,Premier Sedan,11.88,15.63,4
+2024-06-12,07:47,B100668,Completed,Go Mini,38.42,1.21,5
+2024-08-14,01:05,B100669,Cancelled by Customer,Go Sedan,15.12,21.06,5
+2024-05-26,20:28,B100670,Cancelled by Customer,Auto,78.99,20.18,5
+2024-01-20,11:04,B100671,Completed,Go Sedan,73.19,2.11,5
+2024-02-16,01:47,B100672,Completed,UberXL,39.82,11.68,5
+2024-08-20,04:14,B100673,Completed,Premier Sedan,70.81,29.39,5
+2024-10-31,11:35,B100674,Completed,eBike/Bike,45.63,13.2,2
+2024-01-14,14:42,B100675,Completed,Auto,78.06,15.56,5
+2024-05-22,15:22,B100676,Completed,Go Mini,50.88,27.39,5
+2024-01-01,05:45,B100677,Cancelled by Customer,Premier Sedan,47.11,21.8,5
+2024-02-23,17:43,B100678,Cancelled by Driver,eBike/Bike,94.13,17.88,5
+2024-09-15,10:44,B100679,Completed,Go Sedan,32.58,24.14,3
+2024-05-23,20:22,B100680,Cancelled by Driver,eBike/Bike,20.84,26.07,5
+2024-01-12,10:54,B100681,Completed,Premier Sedan,62.61,14.25,5
+2024-11-25,15:46,B100682,Completed,Premier Sedan,97.24,14.78,2
+2024-08-11,20:59,B100683,Completed,UberXL,44.01,12.2,4
+2024-09-28,14:24,B100684,Completed,UberXL,15.58,29.03,3
+2024-12-23,03:10,B100685,Cancelled by Driver,eBike/Bike,40.54,21.22,4
+2024-06-04,18:14,B100686,Completed,Go Sedan,55.53,3.41,1
+2024-01-08,03:20,B100687,Completed,eBike/Bike,24.57,26.03,4
+2024-05-01,12:21,B100688,Completed,Premier Sedan,69.23,14.94,5
+2024-12-13,18:33,B100689,Completed,Premier Sedan,99.8,2.99,5
+2024-06-12,13:03,B100690,Cancelled by Customer,Go Mini,50.66,16.94,5
+2024-03-30,15:52,B100691,Completed,UberXL,41.93,13.1,5
+2024-05-15,19:45,B100692,Completed,Go Mini,46.06,26.45,4
+2024-07-04,14:27,B100693,Completed,Auto,20.36,6.92,3
+2024-11-11,02:07,B100694,Completed,Premier Sedan,89.49,24.97,5
+2024-06-26,15:41,B100695,Completed,Go Mini,47.33,17.17,3
+2024-01-28,03:29,B100696,Cancelled by Customer,eBike/Bike,44.85,2.58,5
+2024-08-07,17:01,B100697,Completed,UberXL,69.37,29.18,5
+2024-12-22,16:12,B100698,Cancelled by Customer,UberXL,49.78,15.87,5
+2024-02-10,03:25,B100699,Cancelled by Customer,Go Sedan,68.34,9.44,5
+2024-08-15,10:06,B100700,Cancelled by Customer,eBike/Bike,15.53,14.61,2
+2024-07-10,11:09,B100701,Completed,Go Sedan,83.24,25.88,4
+2024-05-24,06:12,B100702,Completed,Go Mini,94.65,9.84,5
+2024-07-19,06:55,B100703,Completed,Auto,68.39,6.59,4
+2024-07-30,16:41,B100704,Cancelled by Customer,eBike/Bike,95.91,4.74,5
+2024-08-07,09:55,B100705,Completed,eBike/Bike,23.63,9.64,2
+2024-08-27,03:19,B100706,Completed,eBike/Bike,52.97,23.62,5
+2024-02-15,03:53,B100707,Completed,Go Sedan,64.16,14.68,5
+2024-02-04,06:53,B100708,Completed,Go Mini,62.36,7.6,5
+2024-09-09,00:43,B100709,Completed,eBike/Bike,46.13,5.82,4
+2024-03-22,23:44,B100710,Completed,eBike/Bike,40.43,10.65,4
+2024-09-12,09:46,B100711,Cancelled by Customer,UberXL,21.41,28.26,5
+2024-07-15,12:54,B100712,Completed,Auto,45.26,10.95,3
+2024-10-29,21:53,B100713,Completed,UberXL,24.64,29.66,5
+2024-01-10,20:21,B100714,Completed,UberXL,76.09,15.07,5
+2024-11-07,08:25,B100715,Completed,Auto,28.79,6.2,5
+2024-10-12,08:14,B100716,Completed,Go Mini,15.27,26.84,5
+2024-08-29,09:23,B100717,Cancelled by Customer,UberXL,59.71,14.35,4
+2024-09-07,09:07,B100718,Completed,Go Mini,63.57,21.58,5
+2024-12-30,23:15,B100719,Cancelled by Customer,UberXL,88.47,29.53,5
+2024-01-05,16:25,B100720,Completed,Premier Sedan,61.93,2.46,4
+2024-04-28,04:03,B100721,Completed,Auto,41.09,3.8,5
+2024-10-15,17:23,B100722,Cancelled by Customer,UberXL,82.27,21.89,4
+2024-03-05,18:35,B100723,Completed,Premier Sedan,58.63,9.17,3
+2024-05-25,06:09,B100724,Completed,Go Sedan,17.14,6.34,4
+2024-08-11,17:18,B100725,Completed,Premier Sedan,60.93,2.14,5
+2024-08-26,03:09,B100726,Completed,eBike/Bike,91.72,1.63,4
+2024-06-25,00:54,B100727,Cancelled by Customer,UberXL,45.67,23.46,5
+2024-09-23,17:04,B100728,Completed,Premier Sedan,36.67,4.9,5
+2024-12-06,14:48,B100729,Cancelled by Customer,Go Mini,22.91,14.56,4
+2024-10-08,02:43,B100730,Cancelled by Customer,Go Sedan,23.63,18.57,2
+2024-03-03,01:32,B100731,Completed,UberXL,48.95,13.42,5
+2024-08-04,22:20,B100732,Cancelled by Driver,eBike/Bike,63.61,1.79,4
+2024-12-07,16:21,B100733,Completed,Premier Sedan,17.26,23.72,5
+2024-11-10,15:36,B100734,Cancelled by Driver,Go Sedan,94.56,1.3,4
+2024-10-09,14:34,B100735,Completed,UberXL,77.96,23.09,4
+2024-06-25,06:31,B100736,Cancelled by Customer,Go Sedan,62.8,26.91,5
+2024-04-07,10:09,B100737,Completed,eBike/Bike,84.56,13.55,4
+2024-04-14,08:13,B100738,Completed,Premier Sedan,17.22,16.53,4
+2024-04-08,12:56,B100739,Completed,Go Sedan,52.92,14.83,4
+2024-11-06,01:34,B100740,Cancelled by Customer,Go Sedan,66.71,12.29,4
+2024-01-06,06:20,B100741,Completed,Auto,84.58,26.74,5
+2024-07-15,17:02,B100742,Completed,Go Sedan,80.51,26.92,5
+2024-12-16,09:53,B100743,Cancelled by Customer,Auto,34.94,10.74,4
+2024-05-12,06:40,B100744,Cancelled by Customer,Premier Sedan,94.68,18.84,5
+2024-12-23,16:10,B100745,Cancelled by Driver,UberXL,21.19,27.88,5
+2024-09-15,06:23,B100746,Cancelled by Customer,UberXL,88.76,28.9,4
+2024-01-23,13:18,B100747,Cancelled by Driver,Premier Sedan,97.38,15.76,4
+2024-02-22,03:25,B100748,Cancelled by Customer,Premier Sedan,25.94,14.13,5
+2024-06-13,05:41,B100749,Completed,Go Mini,74.99,9.08,5
+2024-07-20,06:44,B100750,Completed,Premier Sedan,13.63,28.81,5
+2024-03-23,13:35,B100751,Cancelled by Customer,Go Sedan,46.49,5.14,5
+2024-05-24,07:36,B100752,Completed,UberXL,56.47,17.82,1
+2024-03-25,00:35,B100753,Completed,eBike/Bike,62.26,9.19,5
+2024-03-18,02:08,B100754,Completed,UberXL,94.23,9.09,5
+2024-01-01,07:32,B100755,Cancelled by Driver,Auto,70.5,12.74,5
+2024-02-20,05:40,B100756,Completed,UberXL,53.32,29.96,4
+2024-06-21,06:03,B100757,Completed,Go Mini,82.87,2.59,2
+2024-07-23,12:48,B100758,Completed,Premier Sedan,95.55,17.78,3
+2024-09-16,01:59,B100759,Completed,Premier Sedan,11.99,3.39,5
+2024-10-14,04:43,B100760,Completed,UberXL,98.43,5.48,4
+2024-02-03,20:07,B100761,Completed,eBike/Bike,17.75,13.75,4
+2024-12-13,05:07,B100762,Completed,eBike/Bike,83.29,15.8,2
+2024-04-04,17:02,B100763,Cancelled by Customer,Go Mini,35.23,8.5,1
+2024-03-12,21:43,B100764,Completed,Auto,21.9,10.18,5
+2024-02-08,02:21,B100765,Cancelled by Customer,UberXL,49.59,3.52,5
+2024-06-02,05:01,B100766,Cancelled by Customer,Premier Sedan,67.96,9.79,5
+2024-09-06,22:43,B100767,Completed,UberXL,44.29,29.03,4
+2024-06-10,01:37,B100768,Completed,Go Mini,14.91,28.4,5
+2024-04-27,16:34,B100769,Completed,Go Sedan,63.95,10.71,3
+2024-09-15,01:22,B100770,Cancelled by Customer,Go Sedan,91.22,17.55,3
+2024-11-01,19:07,B100771,Completed,Go Mini,44.49,27.38,4
+2024-09-24,21:43,B100772,Cancelled by Customer,Premier Sedan,29.47,1.18,4
+2024-02-23,03:04,B100773,Completed,Go Mini,49.83,24.51,4
+2024-08-23,12:28,B100774,Completed,Premier Sedan,14.35,28.5,5
+2024-08-09,14:56,B100775,Completed,eBike/Bike,83.84,3.65,5
+2024-09-07,22:15,B100776,Completed,Go Mini,84.37,5.68,5
+2024-11-08,09:29,B100777,Cancelled by Customer,Premier Sedan,62.92,28.86,4
+2024-04-21,22:15,B100778,Completed,Go Mini,41.78,16.59,2
+2024-09-11,11:16,B100779,Completed,Go Mini,81.98,1.41,4
+2024-10-29,15:11,B100780,Completed,Premier Sedan,59.92,8.47,5
+2024-07-25,07:19,B100781,Cancelled by Customer,Premier Sedan,84.33,14.05,5
+2024-08-16,02:15,B100782,Completed,Auto,66.83,21.09,5
+2024-12-06,12:22,B100783,Cancelled by Customer,Go Mini,80.6,22.26,1
+2024-03-06,18:39,B100784,Completed,Go Sedan,63.87,29.87,5
+2024-03-15,21:04,B100785,Completed,Go Mini,47.27,9.34,1
+2024-04-12,19:39,B100786,Completed,Go Mini,96.22,16.61,5
+2024-07-10,23:43,B100787,Completed,Premier Sedan,58.7,16.47,5
+2024-09-08,00:56,B100788,Completed,Go Mini,64.46,12.76,5
+2024-08-13,20:19,B100789,Completed,UberXL,29.84,5.91,5
+2024-10-20,05:21,B100790,Cancelled by Customer,Go Mini,66.31,29.35,4
+2024-11-01,17:07,B100791,Completed,UberXL,61.44,25.75,5
+2024-04-07,06:31,B100792,Completed,Go Sedan,26.64,15.45,5
+2024-12-03,00:52,B100793,Completed,Premier Sedan,15.36,18.49,2
+2024-10-12,15:11,B100794,Completed,Go Mini,64.39,7.59,4
+2024-11-30,05:51,B100795,Completed,UberXL,78.73,16.77,4
+2024-12-12,01:13,B100796,Completed,UberXL,57.11,21.15,4
+2024-11-03,03:32,B100797,Completed,UberXL,30.41,15.94,4
+2024-09-05,22:49,B100798,Completed,eBike/Bike,69.99,29.72,5
+2024-06-14,12:01,B100799,Completed,Auto,17.21,18.73,4
+2024-11-30,08:20,B100800,Completed,Go Sedan,49.77,11.76,3
+2024-01-30,01:26,B100801,Completed,Go Mini,24.7,23.39,5
+2024-09-03,08:00,B100802,Completed,eBike/Bike,26.6,5.94,5
+2024-04-15,10:02,B100803,Cancelled by Driver,Go Mini,28.21,12.15,5
+2024-02-20,19:22,B100804,Completed,Go Mini,44.8,11.06,4
+2024-03-21,03:17,B100805,Cancelled by Customer,Premier Sedan,14.6,13.52,5
+2024-05-12,22:05,B100806,Completed,Premier Sedan,45.8,23.67,5
+2024-10-11,02:21,B100807,Cancelled by Customer,Premier Sedan,56.05,15.04,4
+2024-05-17,10:14,B100808,Cancelled by Customer,eBike/Bike,53.5,24.03,1
+2024-07-02,21:59,B100809,Completed,Go Mini,44.45,17.72,5
+2024-11-25,04:51,B100810,Cancelled by Driver,Auto,85.52,10.92,5
+2024-09-29,09:11,B100811,Completed,Go Sedan,23.08,24.49,5
+2024-12-05,14:48,B100812,Completed,Premier Sedan,55.51,7.91,5
+2024-03-09,09:37,B100813,Cancelled by Customer,Premier Sedan,15.58,7.51,5
+2024-02-03,17:44,B100814,Cancelled by Customer,Go Mini,16.4,15.63,5
+2024-09-18,02:29,B100815,Completed,Go Mini,61.65,8.56,1
+2024-02-22,23:41,B100816,Completed,eBike/Bike,60.94,1.26,4
+2024-07-23,13:05,B100817,Completed,eBike/Bike,89.02,19.8,4
+2024-05-05,02:15,B100818,Completed,Premier Sedan,60.21,15.82,5
+2024-08-22,06:51,B100819,Cancelled by Customer,Go Mini,96.38,13.92,5
+2024-02-12,13:08,B100820,Completed,Auto,14.38,29.04,5
+2024-08-27,14:20,B100821,Completed,Go Sedan,18.82,17.56,4
+2024-04-20,02:01,B100822,Completed,Go Mini,13.97,26.04,5
+2024-09-05,01:34,B100823,Completed,Go Mini,26.67,5.04,2
+2024-05-30,17:13,B100824,Completed,UberXL,58.71,17.51,4
+2024-07-01,19:17,B100825,Completed,eBike/Bike,68.1,26.17,5
+2024-12-01,09:24,B100826,Cancelled by Driver,Go Sedan,14.1,17.91,5
+2024-04-04,01:24,B100827,Cancelled by Customer,Premier Sedan,95.14,21.82,5
+2024-01-08,21:32,B100828,Completed,Go Mini,85.79,11.79,4
+2024-12-25,03:30,B100829,Cancelled by Customer,Premier Sedan,36.7,3.68,4
+2024-07-02,13:00,B100830,Cancelled by Customer,Go Mini,16.95,14.28,4
+2024-10-07,13:15,B100831,Cancelled by Customer,Premier Sedan,25.29,12.44,4
+2024-07-13,21:45,B100832,Completed,Go Sedan,21.42,26.14,5
+2024-12-17,19:02,B100833,Completed,eBike/Bike,21.1,8.08,5
+2024-07-13,02:40,B100834,Completed,Go Sedan,56.67,29.04,5
+2024-06-03,05:24,B100835,Completed,UberXL,32.13,28.79,4
+2024-04-02,12:52,B100836,Completed,Auto,42.23,8.18,5
+2024-06-08,01:07,B100837,Completed,eBike/Bike,99.06,11.09,2
+2024-03-01,20:33,B100838,Completed,Go Sedan,71.59,26.97,5
+2024-05-01,03:24,B100839,Cancelled by Customer,UberXL,95.41,29.03,4
+2024-02-20,14:03,B100840,Completed,Auto,22.83,13.86,4
+2024-10-03,12:59,B100841,Completed,UberXL,44.39,10.31,5
+2024-01-05,11:31,B100842,Cancelled by Driver,Go Mini,59.93,16.26,5
+2024-04-01,12:30,B100843,Cancelled by Driver,Go Mini,16.91,20.95,1
+2024-06-18,13:19,B100844,Cancelled by Customer,Premier Sedan,10.38,8.93,4
+2024-11-12,17:28,B100845,Cancelled by Driver,eBike/Bike,70.34,22.36,5
+2024-01-22,05:31,B100846,Completed,Go Mini,67.76,2.5,4
+2024-11-21,10:01,B100847,Cancelled by Driver,UberXL,46.97,2.43,3
+2024-01-01,22:18,B100848,Completed,eBike/Bike,54.07,12.2,4
+2024-05-12,18:04,B100849,Completed,Go Mini,47.39,11.25,4
+2024-08-20,18:33,B100850,Completed,Premier Sedan,12.16,10.15,5
+2024-01-12,09:24,B100851,Completed,Go Sedan,40.18,15.24,5
+2024-12-11,01:10,B100852,Completed,Premier Sedan,25.94,10.3,5
+2024-02-15,17:30,B100853,Completed,Auto,18.86,6.58,5
+2024-02-03,23:14,B100854,Cancelled by Customer,Go Mini,96.1,9.97,4
+2024-03-18,08:22,B100855,Completed,Auto,63.94,29.27,2
+2024-08-05,18:08,B100856,Completed,Auto,75.58,12.92,4
+2024-10-27,02:20,B100857,Cancelled by Customer,UberXL,38.38,13.9,4
+2024-03-13,08:27,B100858,Completed,eBike/Bike,45.38,17.72,3
+2024-10-08,13:50,B100859,Completed,UberXL,31.32,29.52,5
+2024-09-05,06:15,B100860,Cancelled by Customer,Go Mini,18.73,8.01,5
+2024-02-16,15:59,B100861,Completed,Auto,26.11,20.76,4
+2024-04-30,00:03,B100862,Completed,Go Sedan,81.78,21.76,5
+2024-08-01,03:38,B100863,Cancelled by Driver,Auto,70.98,18.61,5
+2024-08-26,07:16,B100864,Completed,Go Sedan,59.22,3.57,5
+2024-02-25,04:38,B100865,Completed,UberXL,52.76,20.63,5
+2024-12-15,19:28,B100866,Cancelled by Customer,UberXL,93.02,2.86,5
+2024-04-16,19:35,B100867,Cancelled by Customer,eBike/Bike,16.55,18.29,5
+2024-11-14,05:38,B100868,Completed,Auto,35.25,22.45,5
+2024-02-17,17:36,B100869,Completed,Premier Sedan,41.49,7.12,5
+2024-03-01,19:34,B100870,Completed,UberXL,80.42,25.41,3
+2024-12-02,06:26,B100871,Completed,UberXL,99.33,1.88,3
+2024-01-26,21:13,B100872,Completed,eBike/Bike,31.66,25.47,5
+2024-10-18,06:36,B100873,Completed,Go Sedan,88.69,14.35,4
+2024-09-13,21:04,B100874,Cancelled by Driver,eBike/Bike,84.76,7.31,1
+2024-01-08,22:01,B100875,Completed,Auto,30.22,4.88,5
+2024-04-22,20:53,B100876,Completed,Go Mini,45.94,28.65,1
+2024-12-20,05:14,B100877,Completed,Go Mini,46.87,3.11,5
+2024-09-09,20:09,B100878,Cancelled by Customer,Go Sedan,98.04,6.77,5
+2024-06-28,22:57,B100879,Completed,UberXL,26.28,11.09,5
+2024-07-25,23:38,B100880,Completed,Go Sedan,81.92,18.99,4
+2024-10-29,04:00,B100881,Cancelled by Customer,UberXL,40.08,16.8,2
+2024-05-06,12:20,B100882,Completed,UberXL,75.78,4.64,5
+2024-02-25,17:44,B100883,Completed,Go Mini,47.8,9.4,5
+2024-08-01,20:52,B100884,Completed,Go Sedan,62.05,7.92,5
+2024-01-14,17:36,B100885,Completed,eBike/Bike,84.94,7.19,4
+2024-01-28,12:31,B100886,Completed,UberXL,82.37,12.92,4
+2024-03-18,03:16,B100887,Completed,Premier Sedan,87.98,21.42,5
+2024-08-03,02:48,B100888,Completed,Premier Sedan,15.37,7.31,3
+2024-12-30,10:20,B100889,Completed,eBike/Bike,72.28,11.63,5
+2024-06-02,19:54,B100890,Cancelled by Customer,Premier Sedan,22.6,12.34,4
+2024-01-14,20:25,B100891,Cancelled by Driver,Auto,47.42,29.32,1
+2024-07-05,03:33,B100892,Cancelled by Customer,UberXL,59.37,28.69,4
+2024-11-07,19:47,B100893,Cancelled by Customer,eBike/Bike,46.25,24.2,4
+2024-01-07,17:39,B100894,Completed,Go Sedan,56.77,8.01,5
+2024-01-03,02:40,B100895,Cancelled by Driver,UberXL,99.69,2.97,5
+2024-04-20,19:28,B100896,Completed,eBike/Bike,22.17,10.19,4
+2024-08-25,05:41,B100897,Cancelled by Driver,Go Mini,70.79,8.74,5
+2024-12-28,20:41,B100898,Cancelled by Driver,Go Sedan,45.64,15.67,2
+2024-08-26,12:48,B100899,Cancelled by Customer,Go Mini,21.97,23.55,5
+2024-09-30,08:16,B100900,Cancelled by Driver,UberXL,24.29,25.89,2
+2024-10-20,23:08,B100901,Completed,Go Sedan,95.43,25.5,5
+2024-08-14,08:00,B100902,Completed,Premier Sedan,89.16,11.43,5
+2024-01-15,01:59,B100903,Completed,eBike/Bike,91.63,20.93,5
+2024-07-10,15:28,B100904,Completed,UberXL,99.24,10.07,5
+2024-04-28,00:09,B100905,Completed,Auto,28.75,2.77,5
+2024-01-28,17:57,B100906,Completed,Go Sedan,41.99,21.35,5
+2024-07-20,07:20,B100907,Cancelled by Driver,Go Sedan,70.23,1.28,5
+2024-02-08,10:54,B100908,Completed,UberXL,53.54,12.87,5
+2024-09-29,01:07,B100909,Cancelled by Customer,UberXL,47.66,10.55,5
+2024-08-18,21:07,B100910,Cancelled by Driver,Go Mini,42.2,21.11,3
+2024-03-26,16:14,B100911,Cancelled by Driver,Premier Sedan,63.44,23.22,5
+2024-05-05,16:59,B100912,Cancelled by Driver,Go Mini,61.8,9.82,3
+2024-10-26,22:23,B100913,Completed,Go Mini,24.53,24.54,5
+2024-01-25,12:18,B100914,Cancelled by Driver,Premier Sedan,52.46,9.52,4
+2024-05-24,04:31,B100915,Cancelled by Customer,Auto,59.81,13.94,5
+2024-01-13,11:00,B100916,Completed,Go Mini,61.33,22.08,1
+2024-07-30,22:36,B100917,Completed,Go Mini,28.91,21.09,3
+2024-01-25,07:12,B100918,Cancelled by Customer,Go Sedan,76.8,29.63,4
+2024-03-08,07:56,B100919,Completed,Premier Sedan,12.27,7.53,5
+2024-03-07,22:42,B100920,Completed,eBike/Bike,41.93,20.21,4
+2024-08-20,00:44,B100921,Cancelled by Customer,Auto,80.22,18.68,4
+2024-04-18,18:23,B100922,Completed,Auto,60.75,27.54,5
+2024-05-25,02:23,B100923,Completed,Premier Sedan,33.5,5.53,5
+2024-04-20,16:04,B100924,Cancelled by Customer,UberXL,72.55,22.8,4
+2024-08-15,19:20,B100925,Completed,UberXL,61.07,17.48,4
+2024-04-20,07:57,B100926,Completed,Go Sedan,81.66,8.97,4
+2024-02-03,13:35,B100927,Completed,Go Sedan,76.15,14.76,5
+2024-04-20,10:51,B100928,Completed,Premier Sedan,64.91,10.68,3
+2024-09-20,14:18,B100929,Cancelled by Driver,Go Sedan,53.94,17.8,4
+2024-08-23,06:50,B100930,Completed,Auto,21.99,26.78,1
+2024-03-23,18:42,B100931,Completed,Auto,33.52,17.51,4
+2024-02-11,04:04,B100932,Completed,eBike/Bike,47.72,19.32,5
+2024-04-10,21:31,B100933,Completed,UberXL,63.94,16.04,4
+2024-01-06,07:09,B100934,Cancelled by Customer,Premier Sedan,56.23,2.48,2
+2024-06-28,05:46,B100935,Cancelled by Customer,Go Mini,35.94,7.75,4
+2024-10-08,15:27,B100936,Completed,UberXL,10.58,15.27,1
+2024-11-15,16:30,B100937,Completed,Go Mini,54.66,10.0,2
+2024-08-13,07:39,B100938,Completed,eBike/Bike,35.71,6.27,5
+2024-11-10,08:01,B100939,Completed,eBike/Bike,76.11,15.62,5
+2024-12-30,14:49,B100940,Cancelled by Customer,Go Sedan,12.16,10.36,5
+2024-08-16,02:48,B100941,Completed,eBike/Bike,62.63,8.49,5
+2024-10-15,03:03,B100942,Completed,eBike/Bike,94.73,14.46,5
+2024-05-29,13:40,B100943,Completed,Go Mini,25.7,4.87,2
+2024-10-03,08:24,B100944,Cancelled by Driver,Go Sedan,52.45,27.9,5
+2024-07-16,22:49,B100945,Cancelled by Driver,eBike/Bike,18.23,26.16,5
+2024-03-10,09:20,B100946,Completed,UberXL,66.31,21.52,5
+2024-04-21,03:11,B100947,Cancelled by Customer,eBike/Bike,59.55,4.08,5
+2024-01-04,07:01,B100948,Completed,Go Sedan,46.66,23.5,4
+2024-12-15,21:12,B100949,Completed,Premier Sedan,56.92,24.43,5
+2024-11-26,20:31,B100950,Cancelled by Customer,Go Sedan,90.69,23.27,5
+2024-11-13,15:31,B100951,Cancelled by Driver,Go Mini,27.67,4.31,5
+2024-12-15,01:10,B100952,Cancelled by Driver,Premier Sedan,12.03,19.67,3
+2024-04-04,09:14,B100953,Completed,UberXL,87.55,25.2,4
+2024-05-31,16:39,B100954,Completed,Auto,61.94,17.74,4
+2024-11-06,17:54,B100955,Cancelled by Customer,Go Sedan,90.16,19.75,5
+2024-05-16,08:24,B100956,Completed,Go Mini,63.73,14.29,3
+2024-09-03,07:58,B100957,Completed,UberXL,82.91,16.33,2
+2024-08-30,13:59,B100958,Completed,Premier Sedan,48.67,2.0,5
+2024-01-31,17:21,B100959,Completed,UberXL,77.49,19.53,1
+2024-02-09,19:29,B100960,Completed,Go Sedan,92.17,3.36,5
+2024-08-16,19:20,B100961,Completed,eBike/Bike,61.49,13.62,4
+2024-02-05,11:31,B100962,Cancelled by Driver,Go Sedan,26.27,9.49,5
+2024-08-10,18:45,B100963,Completed,Auto,34.19,16.82,5
+2024-01-06,16:55,B100964,Completed,Go Sedan,27.88,4.87,5
+2024-11-17,20:34,B100965,Completed,Premier Sedan,32.22,21.06,5
+2024-08-07,22:38,B100966,Completed,Premier Sedan,37.58,24.06,1
+2024-03-15,16:11,B100967,Completed,Go Sedan,59.96,5.74,2
+2024-01-04,08:46,B100968,Completed,Premier Sedan,62.92,4.03,4
+2024-11-30,17:20,B100969,Cancelled by Customer,eBike/Bike,48.38,5.22,5
+2024-05-13,12:20,B100970,Completed,UberXL,65.39,26.44,5
+2024-04-27,07:45,B100971,Cancelled by Driver,Go Sedan,17.34,16.32,4
+2024-04-03,07:45,B100972,Completed,eBike/Bike,17.9,14.55,5
+2024-03-02,06:22,B100973,Completed,UberXL,25.46,4.09,3
+2024-07-12,11:31,B100974,Completed,UberXL,56.63,19.84,5
+2024-11-30,10:21,B100975,Completed,eBike/Bike,29.26,26.17,5
+2024-07-21,21:42,B100976,Cancelled by Customer,Go Mini,35.5,25.02,4
+2024-01-26,21:27,B100977,Completed,Go Sedan,46.03,19.16,4
+2024-06-21,12:17,B100978,Completed,UberXL,83.07,3.18,2
+2024-10-26,01:28,B100979,Cancelled by Customer,UberXL,11.25,4.26,5
+2024-05-12,20:14,B100980,Cancelled by Driver,Premier Sedan,68.44,2.43,5
+2024-11-21,19:26,B100981,Cancelled by Customer,UberXL,70.2,8.47,3
+2024-04-27,17:30,B100982,Completed,eBike/Bike,81.88,4.93,4
+2024-11-19,14:50,B100983,Cancelled by Customer,UberXL,93.95,8.54,4
+2024-10-01,22:23,B100984,Completed,Go Mini,11.81,12.17,5
+2024-07-30,11:12,B100985,Completed,Go Sedan,23.84,28.35,5
+2024-08-12,21:42,B100986,Completed,Go Sedan,89.76,18.7,1
+2024-01-20,04:32,B100987,Completed,UberXL,51.27,25.21,5
+2024-04-22,23:02,B100988,Completed,Auto,60.81,21.6,5
+2024-05-19,21:18,B100989,Completed,Auto,69.67,4.26,4
+2024-02-16,22:28,B100990,Cancelled by Customer,eBike/Bike,71.12,22.34,2
+2024-01-01,06:43,B100991,Completed,Auto,93.86,8.98,5
+2024-03-30,14:24,B100992,Completed,eBike/Bike,99.73,19.53,5
+2024-05-21,04:46,B100993,Completed,Premier Sedan,74.81,10.89,4
+2024-11-15,07:41,B100994,Cancelled by Driver,eBike/Bike,35.85,29.93,4
+2024-02-07,15:07,B100995,Completed,Auto,89.18,8.64,3
+2024-10-19,00:43,B100996,Completed,UberXL,14.43,9.09,5
+2024-05-18,04:02,B100997,Cancelled by Customer,Premier Sedan,30.8,27.99,3
+2024-12-21,00:03,B100998,Cancelled by Customer,Auto,90.76,1.71,4
+2024-11-28,07:34,B100999,Completed,eBike/Bike,33.06,21.2,5
